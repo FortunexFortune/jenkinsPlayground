@@ -1,5 +1,5 @@
 #!/bin/bash
 echo "this is a simple sctipt"
 echo "use parameterization"
-NUMBER= expr $NUMBER1 + $NUMBER2 + 300
+NUMBER= expr $NUMBER1 + $NUMBER2 + 200
 echo $NUMBER
